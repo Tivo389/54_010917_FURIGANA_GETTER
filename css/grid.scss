@@ -1,0 +1,68 @@
+/*------------ GRID SCSS ------------*/
+$grid__increment--v: 8.333333%;
+$grid__increment--h: 25%;
+$grid--color: rgba(255,0,0,0.15);
+.grid__container {
+  height: 100vh;
+  pointer-events: none;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: 1000;
+}
+%extendGridMarker {
+  background-color: $grid--color;
+  border-radius: 10px;
+  padding: 3px;
+  position: absolute;
+}
+@mixin grid__v($num) {
+  border-left: 1px dashed $grid--color;
+  height: 100vh;
+  position: absolute;
+  left: calc(#{$num} * #{$grid__increment--v});
+  &:nth-child(3n):after {
+    @extend %extendGridMarker;
+    content: "";
+    transform: translate(-3.75px, -1.75px);
+  }
+}
+@mixin grid__h($num) {
+  border-top: 1px dashed $grid--color;
+  position: absolute;
+  top: calc(#{$num} * #{$grid__increment--h});
+  width: 100vw;
+  // &:nth-child(3n):after {
+    // @extend %extendGridMarker;
+    // content: "";
+    // transform: translate(-3px, -4px);
+  // }
+}
+.grid__vertical-- {
+  &01 { @include grid__v(01); }
+  &02 { @include grid__v(02); }
+  &03 { @include grid__v(03); }
+  &04 { @include grid__v(04); }
+  &05 { @include grid__v(05); }
+  &06 { @include grid__v(06); }
+  &07 { @include grid__v(07); }
+  &08 { @include grid__v(08); }
+  &09 { @include grid__v(09); }
+  &10 { @include grid__v(10); }
+  &11 { @include grid__v(11); }
+  &12 { @include grid__v(12); }
+}
+.grid__horizontal-- {
+  &01 { @include grid__h(01); }
+  &02 { @include grid__h(02); }
+  &03 { @include grid__h(03); }
+  &04 { @include grid__h(04); }
+  &05 { @include grid__h(05); }
+  &06 { @include grid__h(06); }
+  &07 { @include grid__h(07); }
+  &08 { @include grid__h(08); }
+  &09 { @include grid__h(09); }
+  &10 { @include grid__h(10); }
+  &11 { @include grid__h(11); }
+  &12 { @include grid__h(12); }
+}
