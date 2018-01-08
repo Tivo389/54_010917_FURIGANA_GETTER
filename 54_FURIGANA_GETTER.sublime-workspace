@@ -1,0 +1,1939 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"name",
+				"name__kanji"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"hori",
+				"form-horizontal \tBootstrap 3 Class"
+			],
+			[
+				"form-",
+				"form-control\t(index.html)"
+			],
+			[
+				"font-se",
+				"font-size"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"widt",
+				"width--100\t stylesheet.scss"
+			],
+			[
+				"getElemen",
+				"getElementById\t(05_NOTES_JS.js)"
+			],
+			[
+				"naviga",
+				"navigation.html"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"re",
+				"reset"
+			],
+			[
+				"color",
+				"color__theme--sub\t stylesheet.scss"
+			],
+			[
+				"ju",
+				"justify-content"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fe",
+				"fixed\t(stylesheet.scss)"
+			],
+			[
+				"co",
+				"column\t(navigation.scss)"
+			],
+			[
+				"navbar-f",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"hidd",
+				"hidden-sm \tBootstrap 3 Class"
+			],
+			[
+				"hidde",
+				"hidden-xs \tBootstrap 3 Class"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"texta",
+				"text-align\t(stylesheet.scss)"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"hidden",
+				"hidden-lg \tBootstrap 3 Class"
+			],
+			[
+				"background",
+				"background-color\t(stylesheet.scss)"
+			],
+			[
+				"hi",
+				"hide \tBootstrap 3 Class"
+			],
+			[
+				"navb",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"sty",
+				"font-style"
+			],
+			[
+				"duration",
+				"transition-duration"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cx01",
+				"col-xs-offset-10 \tBootstrap 3 Class"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"center",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"cm",
+				"col-md-12 \tBootstrap 3 Class"
+			],
+			[
+				"rever",
+				"reverseArrayInPlace"
+			],
+			[
+				"colo",
+				"console_log"
+			],
+			[
+				"fex-",
+				"flex-direction"
+			],
+			[
+				"rotate",
+				"rotatePhone"
+			],
+			[
+				"animation",
+				"animation-iteration-count"
+			],
+			[
+				"adi",
+				"animation-duration"
+			],
+			[
+				"rotet",
+				"rotatePhone"
+			],
+			[
+				"getElement",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+			],
+			[
+				"submit",
+				"submitAnswer"
+			],
+			[
+				"submi",
+				"submitAnswer"
+			],
+			[
+				"sco",
+				"score_modal\t(_score_modal.html.erb)"
+			],
+			[
+				"score",
+				"score_modal.html.erb"
+			],
+			[
+				"alert",
+				"alert\t( message?: DOMString ): void Window"
+			],
+			[
+				"time",
+				"time_start\t(game.html.erb)"
+			],
+			[
+				"ti",
+				"time_start\t(game.html.erb)"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"getelemen",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"Time",
+				"timeStamp\t: DOMTimeStamp Event"
+			],
+			[
+				"getT",
+				"getTheResult"
+			],
+			[
+				"usw",
+				"userWord"
+			],
+			[
+				"userwo",
+				"userWordArray"
+			],
+			[
+				"isArra",
+				"Array_isArray\t( arg: any ): boolean Array"
+			],
+			[
+				"user",
+				"userWord"
+			],
+			[
+				"click",
+				"clickLetter"
+			],
+			[
+				"sle",
+				"selectedLetters"
+			],
+			[
+				"sele",
+				"selectedLetters"
+			],
+			[
+				"sel",
+				"selectedLetters"
+			],
+			[
+				"selec",
+				"selectedLetters"
+			],
+			[
+				"grid",
+				"gridLetterTag"
+			],
+			[
+				"functio",
+				"functionIsActive"
+			],
+			[
+				"targ",
+				"targetHTML"
+			],
+			[
+				"se",
+				"selectedLetters"
+			],
+			[
+				"undef",
+				"undefined\t: object Global"
+			],
+			[
+				"array",
+				"arrayIndex"
+			],
+			[
+				"selected",
+				"selectedLetters"
+			],
+			[
+				"arra",
+				"arrayIndex"
+			],
+			[
+				"string",
+				"stringify\t( value: any, replacer?: any, space?: any ): string JSON"
+			],
+			[
+				"target",
+				"targetHTML"
+			],
+			[
+				"trag",
+				"targetHTML"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"seleted",
+				"selectedLetters"
+			],
+			[
+				"input",
+				"inputAlphabet"
+			],
+			[
+				"keys",
+				"keys\t( o: Object ): string[] Object"
+			],
+			[
+				"inp",
+				"inputAlphabet"
+			],
+			[
+				"clic",
+				"clickNumber"
+			],
+			[
+				"inpu",
+				"inputLength"
+			],
+			[
+				"add",
+				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
+			],
+			[
+				"forEach",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"vali",
+				"valid_word"
+			],
+			[
+				"time_",
+				"time_end"
+			],
+			[
+				"valid",
+				"valid_word\t(games_controller.rb)"
+			],
+			[
+				"val",
+				"variable\t(games_controller.rb)"
+			],
+			[
+				"gri",
+				"grid__container\t(game.html.erb)"
+			],
+			[
+				"transi",
+				"transition-duration"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"spac",
+				"spacing--sm\t _game.scss"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"lat",
+				"latCoordinate"
+			],
+			[
+				"lng",
+				"lngCoordinate"
+			],
+			[
+				"res",
+				"response\t(app.js)"
+			],
+			[
+				"fetch",
+				"fetchUrl"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"borderle",
+				"border-top-left-radius"
+			],
+			[
+				"widh",
+				"width--100\t(stylesheet.scss)"
+			],
+			[
+				"colxs",
+				"col-xs-4 \tBootstrap 3 Class"
+			],
+			[
+				"rgba",
+				"rgba()"
+			],
+			[
+				"inlin",
+				"inline-flex"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"wiwid",
+				"windowWidth"
+			],
+			[
+				"scroll",
+				"scrollPercent"
+			],
+			[
+				"dumm",
+				"dummy-height\t(stylesheet.scss)"
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"docume",
+				"documentHeight"
+			],
+			[
+				"dummy",
+				"dummy-width\t stylesheet.css"
+			],
+			[
+				"back",
+				"background-clip"
+			],
+			[
+				"curren",
+				"current_counsellor\t(show.html.erb)"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"displ",
+				"display\t(_general.scss)"
+			],
+			[
+				"chat",
+				"chat__avatar\t(_chat.scss)"
+			],
+			[
+				"con",
+				"conversation\t(show.html.erb)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1298,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/stylesheet.scss",
+			"settings":
+			{
+				"buffer_size": 4265,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 41.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"relo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"scheme",
+				"UI: Select Theme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Box",
+				"Boxy Theme: Activation"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pacla",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"reloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"ackali",
+				"Package Control: List Packages"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"Snippet: Create new LiveReload plugin"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 204.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#54_010917_FURIGANA_GETTER"
+	],
+	"file_history":
+	[
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/_buttons.scss",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/99_ERROR_LOG.txt",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/07_NOTES_GIT.txt",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/form.html",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/_form.scss",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/buttons.html",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/03_NOTES_ERB.erb",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/_typography.scss",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/06_NOTES_RAILS.rb",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/01_NOTES_RUBY.rb",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/_reset.scss",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201708_2017XX_JAPAN/01_LE_WAGON_TOKYO/02_2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/stylesheet.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/shun_css_snippet.scss",
+		"/Users/SHUN/Dropbox/00_メモ/00ADDRESS.txt",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/js/navigation.js",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/_input.scss",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/_typography.scss",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/typography.scss",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/buttons.scss",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/css/navigation.scss",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/buttons.html",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/color.html",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/typography.html",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/05_NOTES_JS.js",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/navigation.js",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/_navigation.html",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/navigation.html",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/navigation_jq.js",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/02_PATTERN_LIBRARY/js/jquery-1.11.3.min.js",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171219_JPN/typography.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171219_JPN/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171218/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171219_JPN/color.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171219_JPN/buttons.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171218/buttons.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171218/notes.txt",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171218/color.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171218/css/navigation.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171218/typography.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171218/css/bootstrap.min.css",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/HTML/V4_FEB_2017/template.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/STYLESHEET/V1_20171218/css/reset.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#53_120217_SVG_CATALOG/SVG_CATALOG.html",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#53_120217_SVG_CATALOG/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/PROJECT/03_TRANSROAD/00_CONCEPT.txt",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#53_120217_SVG_CATALOG/svg/04_minified_object.svg",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#53_120217_SVG_CATALOG/svg/03_minified.svg",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#53_120217_SVG_CATALOG/svg/07_minified--background--hover.svg",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#53_120217_SVG_CATALOG/svg/06_minified--background.svg",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#53_120217_SVG_CATALOG/svg/02_sketch.svg",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#53_120217_SVG_CATALOG/svg/05_minified_object--hover.svg",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#53_120217_SVG_CATALOG/svg/01_sketch_svg.svg",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/00_PRACTICE_FILES/#53_120217_SVG_CATALOG/svg/01.svg",
+		"/Users/SHUN/Dropbox/00_メモ/00BOOK.txt",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/01_NOTES_RUBY.rb",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/03_NOTES_ERB.erb",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/02_NOTES_SQLITE.sql",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/04_NOTES_YAML.yml",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/06_NOTES_RAILS.rb",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/07_NOTES_GIT.txt",
+		"/Users/SHUN/Google Drive/2017_0904_1103_LE_WAGON/DAY_SHUN_NOTES/00_CODE_NOTES/99_ERROR_LOG.txt",
+		"/Users/SHUN/code/Tivo389/transroad/.ruby-version",
+		"/Users/SHUN/code/Tivo389/transroad/Gemfile",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/00_READ_THIS_FIRST.txt",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/views/games/game.html.erb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/config/environments/production.rb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/config/environments/development.rb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/config/application.rb",
+		"/Users/SHUN/application_record.rb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/Gemfile",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/models/application_record.rb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/Gemfile.lock",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/config/environments/test.rb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/config/database.yml",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/config/environment.rb",
+		"/Users/SHUN/code/Tivo389/counselor/Gemfile",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/javascripts/clickable.js",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/pages/_game.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/views/games/_score_modal.html.erb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/pages/_score_modal.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/images/phone.svg",
+		"/Users/SHUN/Dropbox/CANADA/99_DOCUMENTS/05_CRIMINAL_RECORD/UK/ENDORSER.txt",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/javascripts/timer.js",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/views/games/score.html.erb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/controllers/games_controller.rb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/javascripts/application.js",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/views/layouts/application.html.erb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/views/games/score.js.erb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/config/routes.rb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/javascripts/manifest.json",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/config/_fonts.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/config/_colors.scss",
+		"/Users/SHUN/Google Drive/00_TIVO/99_ARCHIVE/201204_201509_SINGAPORE/01_FINANCE/TAX_YOA_2013/IRAS/IRAS_MAIL_LOG.txt",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/.gitignore",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/config/_variables.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/pages/_index.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/views/games/score_modal.html.erb",
+		"/Users/SHUN/Dropbox/CANADA/00_NOTES_CANADA.txt",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/javascripts/clickable_v1.js",
+		"/Users/SHUN/code/Tivo389/counselor/app/views/users/registrations/new.html.erb",
+		"/Users/SHUN/code/Tivo389/dotfiles/gitconfig",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/views/shared/_navbar.html.erb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/application.scss",
+		"/Users/SHUN/Dropbox/02_記事類/00EXPRESSIONS.txt",
+		"/Users/SHUN/code/Tivo389/fullstack-challenges/04-Front-End/node_modules/acorn-jsx/node_modules/acorn/src/loose/expression.js",
+		"/Users/SHUN/code/Tivo389/rails-mister-cocktail/app/views/cocktails/index.html.erb",
+		"/Users/SHUN/code/Tivo389/rails-mister-cocktail/app/views/cocktails/new.html.erb",
+		"/Users/SHUN/code/Tivo389/rails-mister-cocktail/app/views/cocktails/show.html.erb",
+		"/Users/SHUN/code/Tivo389/quartermaster/app/views/users/edit.html.erb",
+		"/Users/SHUN/code/Tivo389/quartermaster/app/views/users/show.html.erb",
+		"/Users/SHUN/code/Tivo389/counselor/app/assets/stylesheets/components/_modal.scss",
+		"/Users/SHUN/code/Tivo389/counselor/app/assets/stylesheets/components/_button.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/config/_normalize.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/config/_bootstrap_variables.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/V6_NOV_2017/css/stylesheet.scss",
+		"/Users/SHUN/Google Drive/99_ARCHIVE/00_DESIGN/2016-/2016_0224-1009_HTML_LEARNING/99_TEMPLATE_SET/V6_NOV_2017/css/reset.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/layouts/_index.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/games.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/assets/stylesheets/components/_index.scss",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/views/pages/home.html.erb",
+		"/Users/SHUN/code/Tivo389/RECAP-longest-word-game/app/views/shared/_footer.html.erb",
+		"/Users/SHUN/Dropbox/CANADA/00_NOTES_CONSULTANTS.txt",
+		"/Users/SHUN/code/Tivo389/practice-stupid-coaching/app/controllers/questions_controller.rb",
+		"/Users/SHUN/code/Tivo389/practice-stupid-coaching/app/views/questions/answer.html.erb",
+		"/Users/SHUN/code/Tivo389/practice-stupid-coaching/app/views/questions/ask.html.erb",
+		"/Users/SHUN/code/Tivo389/rails-stupid-coaching/app/views/questions/ask.html.erb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 304.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2px",
+			" async",
+			"async",
+			"black",
+			"222222",
+			"1px solid $color--black;",
+			"bottom",
+			" col-xs-6",
+			"24px",
+			"debug",
+			"unset"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1121,
+								1121
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1359,
+										1362
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1212,
+										1215
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1117,
+										1120
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										430,
+										433
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bs_sintax": "html",
+							"buffer_scroll_name": "c1ae3e56",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/stylesheet.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1217,
+								1217
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1230,
+										1231
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1201,
+										1202
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1230,
+										1231
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1201,
+										1202
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bs_sintax": "scss",
+							"buffer_scroll_name": "65fbeebe",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 828.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 104.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.631032986111,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "54_FURIGANA_GETTER.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sty",
+				"css/stylesheet.scss"
+			],
+			[
+				"form",
+				"css/_form.scss"
+			],
+			[
+				"typo",
+				"css/_typography.scss"
+			],
+			[
+				"ty",
+				"css/_typography.scss"
+			],
+			[
+				"buttscss",
+				"css/_buttons.scss"
+			],
+			[
+				"styls",
+				"css/stylesheet.scss"
+			],
+			[
+				"reset",
+				"css/_reset.scss"
+			],
+			[
+				"buttons",
+				"css/_buttons.scss"
+			],
+			[
+				"s",
+				"css/stylesheet.scss"
+			],
+			[
+				"stylescss",
+				"css/stylesheet.css"
+			],
+			[
+				"butto",
+				"buttons.html"
+			],
+			[
+				"styleshe",
+				"css/stylesheet.scss"
+			],
+			[
+				"navhtml",
+				"navigation.html"
+			],
+			[
+				"navjs",
+				"navigation.js"
+			],
+			[
+				"navigatio",
+				"navigation.html"
+			],
+			[
+				"navijs",
+				"navigation.js"
+			],
+			[
+				"scsss",
+				"css/stylesheet.scss"
+			],
+			[
+				"styl",
+				"css/stylesheet.scss"
+			],
+			[
+				"scss",
+				"css/stylesheet.scss"
+			],
+			[
+				"nav",
+				"css/navigation.scss"
+			],
+			[
+				"navi",
+				"css/navigation.scss"
+			],
+			[
+				"stylscs",
+				"css/stylesheet.scss"
+			],
+			[
+				"mini",
+				"svg/03_minified.svg"
+			],
+			[
+				"sketh",
+				"svg/02_sketch.svg"
+			],
+			[
+				"application_re",
+				"app/models/application_record.rb"
+			],
+			[
+				"test",
+				"config/environments/test.rb"
+			],
+			[
+				"lock",
+				"Gemfile.lock"
+			],
+			[
+				"da",
+				"config/database.yml"
+			],
+			[
+				"dev",
+				"config/environments/development.rb"
+			],
+			[
+				"gemfilelo",
+				"Gemfile.lock"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"produc",
+				"config/environments/production.rb"
+			],
+			[
+				"devel",
+				"config/environments/development.rb"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"envi",
+				"config/environment.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"applirb",
+				"config/application.rb"
+			],
+			[
+				"en",
+				"config/environment.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile.lock"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"00",
+				"00_READ_THIS_FIRST.txt"
+			],
+			[
+				"gamehml",
+				"app/views/games/game.html.erb"
+			],
+			[
+				"click",
+				"app/assets/javascripts/clickable.js"
+			],
+			[
+				"scoremoda",
+				"app/views/games/_score_modal.html.erb"
+			],
+			[
+				"modascs",
+				"app/assets/stylesheets/pages/_score_modal.scss"
+			],
+			[
+				"gamehtml",
+				"app/views/games/game.html.erb"
+			],
+			[
+				"gamescss",
+				"app/assets/stylesheets/pages/_game.scss"
+			],
+			[
+				"gamescs",
+				"app/assets/stylesheets/pages/_game.scss"
+			],
+			[
+				"score",
+				"app/views/games/score.html.erb"
+			],
+			[
+				"modalscss",
+				"app/assets/stylesheets/pages/_score_modal.scss"
+			],
+			[
+				"timer.js",
+				"app/assets/javascripts/timer.js"
+			],
+			[
+				"appjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"clickajs",
+				"app/assets/javascripts/clickable.js"
+			],
+			[
+				"applicahtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"applica",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"timerjs",
+				"app/assets/javascripts/timer.js"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"clicka",
+				"app/assets/javascripts/clickable.js"
+			],
+			[
+				"controller",
+				"app/controllers/games_controller.rb"
+			],
+			[
+				"applicajs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"contro",
+				"app/controllers/games_controller.rb"
+			],
+			[
+				"scorejs",
+				"app/views/games/score.js.erb"
+			],
+			[
+				"control",
+				"app/controllers/games_controller.rb"
+			],
+			[
+				"clic",
+				"app/assets/javascripts/clickable.js"
+			],
+			[
+				"modalsc",
+				"app/assets/stylesheets/pages/_score_modal.scss"
+			],
+			[
+				"applicahtm",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"colorscs",
+				"app/assets/stylesheets/config/_colors.scss"
+			],
+			[
+				"fontscss",
+				"app/assets/stylesheets/config/_fonts.scss"
+			],
+			[
+				"js",
+				"app/views/games/score.js.erb"
+			],
+			[
+				"clickable",
+				"app/assets/javascripts/clickable.js"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"scorejser",
+				"app/views/games/score.js.erb"
+			],
+			[
+				"gamehtmler",
+				"app/views/games/game.html.erb"
+			],
+			[
+				"gamehtm",
+				"app/views/games/game.html.erb"
+			],
+			[
+				"applicatijs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"v1",
+				"app/assets/javascripts/clickable_v1.js"
+			],
+			[
+				"game",
+				"app/views/games/game.html.erb"
+			],
+			[
+				"applhtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"routesr",
+				"config/routes.rb"
+			],
+			[
+				"navbar",
+				"app/views/shared/_navbar.html.erb"
+			],
+			[
+				"apphtmer",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"applicss",
+				"app/assets/stylesheets/application.scss"
+			],
+			[
+				"applihtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"apliscss",
+				"app/assets/stylesheets/application.scss"
+			],
+			[
+				"g",
+				"Gemfile"
+			],
+			[
+				"apphtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"varia",
+				"app/assets/stylesheets/config/_variables.scss"
+			],
+			[
+				"appcscss",
+				"app/assets/stylesheets/application.scss"
+			],
+			[
+				"color",
+				"app/assets/stylesheets/config/_colors.scss"
+			],
+			[
+				"var",
+				"app/assets/stylesheets/config/_variables.scss"
+			],
+			[
+				"appchtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"nor",
+				"app/assets/stylesheets/config/_normalize.scss"
+			],
+			[
+				"norma",
+				"app/assets/stylesheets/config/_normalize.scss"
+			],
+			[
+				"bootstrap",
+				"app/assets/stylesheets/config/_bootstrap_variables.scss"
+			],
+			[
+				"variabl",
+				"app/assets/stylesheets/config/_variables.scss"
+			],
+			[
+				"gamescontr",
+				"app/controllers/games_controller.rb"
+			],
+			[
+				"appscss",
+				"app/assets/stylesheets/application.scss"
+			],
+			[
+				"home.htm",
+				"app/views/pages/home.html.erb"
+			],
+			[
+				"applicationhtmler",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"ask",
+				"app/views/questions/ask.html.erb"
+			],
+			[
+				"answer",
+				"app/views/questions/answer.html.erb"
+			],
+			[
+				"ques",
+				"app/controllers/questions_controller.rb"
+			],
+			[
+				"anas",
+				"app/views/questions/answer.html.erb"
+			],
+			[
+				"anw",
+				"app/views/questions/answer.html.erb"
+			],
+			[
+				"askhtmle",
+				"app/views/questions/ask.html.erb"
+			],
+			[
+				"askhtm",
+				"app/views/questions/ask.html.erb"
+			],
+			[
+				"style",
+				"css/stylesheet.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"indh",
+				"index.html"
+			],
+			[
+				"svg",
+				"JS_SCANIMATION_svg.html"
+			],
+			[
+				"horizjs",
+				"00_HORIZONTAL_SCROLL/js/horizontal_scroll.js"
+			],
+			[
+				"scanijs",
+				"js/scanimation.js"
+			],
+			[
+				"grid",
+				"css/grid.scss"
+			],
+			[
+				"mouse",
+				"js/mousewheel.js"
+			],
+			[
+				"scanihtml",
+				"JS_SCANIMATION.html"
+			],
+			[
+				"stycs",
+				"css/stylesheet.css"
+			],
+			[
+				"stycss",
+				"css/stylesheet.css"
+			],
+			[
+				"sstyscs",
+				"css/stylesheet.scss"
+			],
+			[
+				"chatscss",
+				"app/assets/stylesheets/components/_chat.scss"
+			],
+			[
+				"messageshow",
+				"app/views/messages/_show.html.erb"
+			],
+			[
+				"chatscs",
+				"app/assets/stylesheets/components/_chat.scss"
+			],
+			[
+				"messagform",
+				"app/views/messages/_form.html.erb"
+			],
+			[
+				"show",
+				"app/views/messages/_show.html.erb"
+			],
+			[
+				"messageform",
+				"app/views/messages/_form.html.erb"
+			],
+			[
+				"messform",
+				"app/views/messages/_form.html.erb"
+			],
+			[
+				"messshow",
+				"app/views/messages/_show.html.erb"
+			],
+			[
+				"mailbo",
+				"config/initializers/mailboxer.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 634.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 677.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

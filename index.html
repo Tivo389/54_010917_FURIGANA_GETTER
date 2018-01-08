@@ -4,39 +4,30 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>NAME HERE</title>
+<title>FURIGANA GETTER</title>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 <link href="css/reset.css" rel="stylesheet">
 <link href="css/stylesheet.css" rel="stylesheet">
-<link href="css/grid.css" rel="stylesheet">
-<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous" async></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" async></script>
-<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 </head>
 <body>
 
-<div class="section--full-view flex--center--center">
-  <h1>HELLO WORLD</h1>
+<div id="viewport" class="section--full-view flex--center--center">
+
+  <form class="col-xs-4" method="POST" action="js/furigana.js">
+    <label class="control-label" for="name__kanji">名前（漢字）</label>
+    <div class="form-group row">
+      <input id="name__kanji" class="form-control" name="input_kanji" type="text" placeholder="ここに漢字を入力すると">
+      <!-- <input class="btn btn-primary btn__null col-xs-2" value="送信" type="submit"> -->
+    </div>
+    <label class="control-label" for="name__furigana">名前（フリガナ）</label>
+    <div class="form-group row">
+      <input id="name__furigana" class="form-control" name="input_kanji" type="text" placeholder="ここにフリガナが自動入力されます">
+    </div>
+  </form>
+
 </div>
 
-<!-- TEMPLATE START -->
-<p class="version">Ver.XXXXXX.1a</p>
-<div class="grid__container">
-  <div class="grid__vertical--01"></div>
-  <div class="grid__vertical--02"></div>
-  <div class="grid__vertical--03"></div>
-  <div class="grid__vertical--04"></div>
-  <div class="grid__vertical--05"></div>
-  <div class="grid__vertical--06"></div>
-  <div class="grid__vertical--07"></div>
-  <div class="grid__vertical--08"></div>
-  <div class="grid__vertical--09"></div>
-  <div class="grid__vertical--10"></div>
-  <div class="grid__vertical--11"></div>
-  <div class="grid__horizontal--01"></div>
-  <div class="grid__horizontal--02"></div>
-  <div class="grid__horizontal--03"></div>
-</div>
-<!-- TEMPLATE END -->
 </body>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </html>
