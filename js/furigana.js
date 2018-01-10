@@ -10,17 +10,22 @@ document.addEventListener("DOMContentLoaded", function(event) {
       .then((response) => {
         if(response.ok) {
           response.json().then(data => {
-
             const wordArray = data.query.results.ResultSet.Result.WordList.Word;
             // console.log(wordArray);
-            let hiraganaArray = [];
-            for (var i = 0; i < wordArray.length; i++) {
-              // console.log(wordArray[i].Furigana);
-              hiraganaArray.push(wordArray[i].Furigana);
+            let hiragana = "";
+            if(wordArray.length === undefined) {
+              hiragana = wordArray.Furigana;
+              // console.log(hiragana);
+            } else {
+              let hiraganaArray = [];
+              for (var i = 0; i < wordArray.length; i++) {
+                // console.log(wordArray[i].Furigana);
+                hiraganaArray.push(wordArray[i].Furigana);
+              }
+              // console.log(hiraganaArray);
+              hiragana = hiraganaArray.join('　');
+              // console.log(hiragana);
             }
-            // console.log(hiraganaArray);
-            const hiragana = hiraganaArray.join('　');
-            // console.log(hiragana);
             const katakana = hiraganaToKatakana(hiragana);
             // console.log(katakana);
             function hiraganaToKatakana(hiragana) {
@@ -37,7 +42,5 @@ document.addEventListener("DOMContentLoaded", function(event) {
       })
       .catch((error) => console.log(error));
   };
-
   form.addEventListener('submit', getFurigana);
-
 });
