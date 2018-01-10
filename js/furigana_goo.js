@@ -12,9 +12,18 @@ document.addEventListener("DOMContentLoaded", function(event) {
       method: "POST",
       headers: {
         "Accept": "application/json",
-        "Content-Type": "application/x-www-form-urlencoded; charset=utf-8"
+        "Content-Type": "application/x-www-form-urlencoded"
       },
-      body: JSON.stringify({
+      // ATTEMPT 001 : The below is a JSON format not a urlencoded format.
+      // body: JSON.stringify({
+      //   "app_id": gooAppId,
+      //   "sentence": input.value,
+      //   "output_type": "katakana"
+      // })
+      // ATTEMPT 002 : The below was done manually.
+      // body: `app_id=${gooAppId}&sentence=${input.value}&output_type=katakana`
+      // ATTEMPT 003 : BETTER!
+      body: jQuery.param({
         "app_id": gooAppId,
         "sentence": input.value,
         "output_type": "katakana"
@@ -24,6 +33,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         if(response.ok) {
           response.json().then(data => {
             console.log(data);
+            // CONTINUE HERE
             // const wordArray = data.query.results.ResultSet.Result.WordList.Word;
             // console.log(wordArray);
             // let hiragana = "";
