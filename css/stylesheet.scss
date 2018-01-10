@@ -70,6 +70,15 @@ $transition--lg: 1s;
     height: 38px;
     padding: 10px 12px 0 0;
   }
+  .img--goo {
+    margin: 15px;
+    width: 120px;
+  }
+  .img--null {
+    height: unset;
+    width: unset;
+    max-width: unset;
+  }
   .work__area {
     width: 65%;
   }
@@ -87,6 +96,7 @@ $transition--lg: 1s;
 .section--full-view {
 	height: 100vh;
 	width: 100vw;
+  padding: 0 10vw;
 }
 // TYPOGRAPHY (xs)
 // h1 = Banner
@@ -175,6 +185,10 @@ a {
   &--sb {
     @extend %extendFlex;
     justify-content: space-between;
+  }
+  &--sa {
+    @extend %extendFlex;
+    justify-content: space-around;
   }
 }
 .height {

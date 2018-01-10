@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FURIGANA GETTER</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+<link href="css/reset.css" rel="stylesheet">
+<link href="css/stylesheet.css" rel="stylesheet">
+</head>
+<body>
+
+<div id="viewport" class="section--full-view flex--sa">
+
+  <div>
+    <h3>goo<br>ルビ振り</h3>
+    <a href="http://www.goo.ne.jp/">
+      <img class="img--goo" src="http://u.xgoo.jp/img/sgoo.png" alt="supported by goo" title="supported by goo">
+    </a>
+  </div>
+
+  <form class="col-xs-8">
+    <label class="control-label" for="name__kanji">名前（漢字）</label>
+    <div class="form-group row">
+      <input id="name__kanji" class="form-control" name="input_kanji" type="text" placeholder="漢字を入力してEnterキーを押すと">
+      <input class="btn btn-primary btn__null col-xs-2 collapse" value="送信" type="submit">
+    </div>
+    <label class="control-label" for="name__furigana">名前（フリガナ）</label>
+    <div class="form-group row">
+      <input id="name__furigana" class="form-control" name="input_kanji" type="text" placeholder="フリガナが自動入力されます">
+    </div>
+  </form>
+
+</div>
+
+</body>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="js/furigana_goo.js"></script>
+</html>
