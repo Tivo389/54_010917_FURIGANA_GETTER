@@ -32,33 +32,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
       .then((response) => {
         if(response.ok) {
           response.json().then(data => {
-            console.log(data);
-            // CONTINUE HERE
-            // const wordArray = data.query.results.ResultSet.Result.WordList.Word;
-            // console.log(wordArray);
-            // let hiragana = "";
-            // if(wordArray.length === undefined) {
-            //   hiragana = wordArray.Furigana;
-            //   // console.log(hiragana);
-            // } else {
-            //   let hiraganaArray = [];
-            //   for (var i = 0; i < wordArray.length; i++) {
-            //     // console.log(wordArray[i].Furigana);
-            //     hiraganaArray.push(wordArray[i].Furigana);
-            //   }
-            //   // console.log(hiraganaArray);
-            //   hiragana = hiraganaArray.join('　');
-            //   // console.log(hiragana);
-            // }
-            // const katakana = hiraganaToKatakana(hiragana);
-            // // console.log(katakana);
-            // function hiraganaToKatakana(hiragana) {
-            //   return hiragana.replace(/[\u3041-\u3096]/g, function(match) {
-            //     var chr = match.charCodeAt(0) + 0x60;
-            //     return String.fromCharCode(chr);
-            //   });
-            // }
-            // destination.value = katakana;
+            const katakana = data.converted;
+            console.log(katakana);
+            destination.value = katakana;
           })
         } else {
           throw new Error();
